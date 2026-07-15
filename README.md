@@ -1,7 +1,7 @@
 # Evaluation of Microprocessors and Case Study of the Intel 8086 Microprocessor
 
 **Course:** Microprocessor Systems and Interfacing  
-**Submitted By:** Sumaira Safeer (FA22-BCE-019)  
+**Submitted By:** Sumaira Safeer 
 **Program:** BS Computer Engineering  
 **Institution:** COMSATS University Islamabad, Attock Campus  
 **Submitted To:** Akbar Aki Khan
@@ -56,7 +56,7 @@ The complete assignment including detailed explanations, diagrams, and analysis 
 
 ## 👩‍🎓 Author
 **Sumaira Safeer**  
-BS Computer Engineering (Final Year)  
+BS Computer Engineering  
 COMSATS University Islamabad, Attock Campus  
 [LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
 
